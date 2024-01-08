@@ -210,4 +210,3 @@ By using references grouped at the bottom of your file, you can easily find, edi
 [GitHub Help]: http://help.github.com/
 [Set Up Git]: http://help.github.com/win-set-up-git/
 [Markdown Home]: http://daringfireball.net/projects/markdown/
-[vscode]: https://code.visualstudio.com/
